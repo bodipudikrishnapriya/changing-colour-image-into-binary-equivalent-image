@@ -1,0 +1,1 @@
+# changing-colour-image-into-binary-equivalent-image
